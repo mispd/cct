@@ -1,0 +1,9 @@
+{
+  "default": {
+    "ip": "192.168.50.128",
+    "area": "本地",
+    "name": "server0",
+    "comment": "本地服，单机使用"
+  },
+  "nickname": ""
+}

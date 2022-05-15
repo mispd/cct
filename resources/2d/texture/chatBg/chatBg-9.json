@@ -1,0 +1,22 @@
+{"frames": {
+
+"chat9_stand_0.png":
+{
+	"frame": {"x":5,"y":5,"w":1964,"h":1704},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1964,"h":1704},
+	"sourceSize": {"w":1964,"h":1704},
+	"pivot": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chatBg-9.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "chatBg-0.json", "chatBg-1.json", "chatBg-2.json", "chatBg-3.json", "chatBg-4.json", "chatBg-5.json", "chatBg-6.json", "chatBg-7.json", "chatBg-8.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:de7c27037abc837cd604814b3dcb01c6:b95c51fe5b5c02f0d55aa35305bdf66b:da8d61757fab479b14fb4a07220ee88b$"
+}
+}

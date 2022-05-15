@@ -1,0 +1,1779 @@
+{
+  "elem1": {
+    "die": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 1,
+          "centerOffsetY": 6,
+          "fileName": "elem1_die_0.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            51
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 1,
+          "centerOffsetY": 7,
+          "fileName": "elem1_die_1.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            50
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem1_die_2.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            57
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 1,
+          "centerOffsetY": 0,
+          "fileName": "elem1_die_3.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 96,
+          "wh": [
+            45,
+            57
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem1",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 57,
+        "biWidth": 46,
+        "bversion": 65536,
+        "fileNameNoExt": "elem1_die",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem1_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            53
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem1",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 53,
+        "biWidth": 43,
+        "bversion": 65536,
+        "fileNameNoExt": "elem1_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem10": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem10_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 248,
+          "wh": [
+            122,
+            139
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem10",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 139,
+        "biWidth": 122,
+        "bversion": 65536,
+        "fileNameNoExt": "elem10_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem11": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem11_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem11",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 40,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem11_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem12": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem12_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            42,
+            62
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem12",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 62,
+        "biWidth": 42,
+        "bversion": 65536,
+        "fileNameNoExt": "elem12_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem13": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem13_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem13",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 40,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem13_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem14": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 19,
+          "fileName": "elem14_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 248,
+          "wh": [
+            122,
+            139
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem14",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 19,
+        "biHeight": 139,
+        "biWidth": 122,
+        "bversion": 65536,
+        "fileNameNoExt": "elem14_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem15": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem15_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            35
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem15",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 40,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem15_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem16": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 5,
+          "fileName": "elem16_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            35
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem16",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 40,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem16_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem17": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_1.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_2.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_3.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 4,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_4.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 5,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_5.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 6,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_6.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 7,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_7.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 8,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_8.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 9,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_9.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        },
+        {
+          "FramePlayIdx": 10,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem17_stand_10.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            40
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem17",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 11,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 40,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem17_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem18": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 2,
+          "fileName": "elem18_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            56
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 0,
+          "centerOffsetY": 2,
+          "fileName": "elem18_stand_1.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            56
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem18_stand_2.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            58
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 0,
+          "centerOffsetY": 2,
+          "fileName": "elem18_stand_3.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            56
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem18",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 60,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem18_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem19": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 3,
+          "fileName": "elem19_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            39,
+            59
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 0,
+          "centerOffsetY": 3,
+          "fileName": "elem19_stand_1.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            39,
+            59
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 3,
+          "fileName": "elem19_stand_2.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            39,
+            59
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem19",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 3,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 62,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem19_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem2": {
+    "die": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 1,
+          "centerOffsetY": 6,
+          "fileName": "elem2_die_0.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            51
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 1,
+          "centerOffsetY": 7,
+          "fileName": "elem2_die_1.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            50
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem2_die_2.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            57
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 1,
+          "centerOffsetY": 0,
+          "fileName": "elem2_die_3.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 96,
+          "wh": [
+            45,
+            57
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem2",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 57,
+        "biWidth": 46,
+        "bversion": 65536,
+        "fileNameNoExt": "elem2_die",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem2_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            53
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem2",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 53,
+        "biWidth": 43,
+        "bversion": 65536,
+        "fileNameNoExt": "elem2_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem20": {
+    "trigger": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 3,
+          "fileName": "elem20_trigger_0.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            39,
+            59
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 0,
+          "centerOffsetY": 2,
+          "fileName": "elem20_trigger_1.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            39,
+            60
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 1,
+          "fileName": "elem20_trigger_2.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            61
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 0,
+          "centerOffsetY": 1,
+          "fileName": "elem20_trigger_3.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 80,
+          "wh": [
+            40,
+            61
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem20",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 62,
+        "biWidth": 40,
+        "bversion": 65536,
+        "fileNameNoExt": "elem20_trigger",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem21": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 7,
+          "fileName": "elem21_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            73
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem21",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 80,
+        "biWidth": 44,
+        "bversion": 65536,
+        "fileNameNoExt": "elem21_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "trigger": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 7,
+          "fileName": "elem21_trigger_0.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            73
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 0,
+          "centerOffsetY": 2,
+          "fileName": "elem21_trigger_1.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            78
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 1,
+          "fileName": "elem21_trigger_2.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            79
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 0,
+          "centerOffsetY": 24,
+          "fileName": "elem21_trigger_3.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            56
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem21",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 80,
+        "biWidth": 44,
+        "bversion": 65536,
+        "fileNameNoExt": "elem21_trigger",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem22": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 7,
+          "fileName": "elem22_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            56
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem22",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 80,
+        "biWidth": 44,
+        "bversion": 65536,
+        "fileNameNoExt": "elem22_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "trigger": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 7,
+          "fileName": "elem22_trigger_0.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            56
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 0,
+          "centerOffsetY": 2,
+          "fileName": "elem22_trigger_1.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            61
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 1,
+          "fileName": "elem22_trigger_2.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            62
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 0,
+          "centerOffsetY": 24,
+          "fileName": "elem22_trigger_3.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            39
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem22",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 80,
+        "biWidth": 44,
+        "bversion": 65536,
+        "fileNameNoExt": "elem22_trigger",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem23": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 7,
+          "fileName": "elem23_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            39
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem23",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 48,
+        "biWidth": 44,
+        "bversion": 65536,
+        "fileNameNoExt": "elem23_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "trigger": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 7,
+          "fileName": "elem23_trigger_0.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            39
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 0,
+          "centerOffsetY": 2,
+          "fileName": "elem23_trigger_1.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            44
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 1,
+          "fileName": "elem23_trigger_2.png",
+          "pose": 8,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            45
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem23",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 3,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 48,
+        "biWidth": 44,
+        "bversion": 65536,
+        "fileNameNoExt": "elem23_trigger",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem24": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem24_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 400,
+          "wh": [
+            200,
+            160
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem24",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 160,
+        "biWidth": 200,
+        "bversion": 65536,
+        "fileNameNoExt": "elem24_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem25": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem25_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 400,
+          "wh": [
+            200,
+            80
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem25",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 80,
+        "biWidth": 200,
+        "bversion": 65536,
+        "fileNameNoExt": "elem25_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem26": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem26_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 240,
+          "wh": [
+            120,
+            120
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem26",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 120,
+        "biWidth": 120,
+        "bversion": 65536,
+        "fileNameNoExt": "elem26_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem27": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem27_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 320,
+          "wh": [
+            160,
+            120
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem27",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 120,
+        "biWidth": 160,
+        "bversion": 65536,
+        "fileNameNoExt": "elem27_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem28": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem28_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 400,
+          "wh": [
+            200,
+            80
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem28",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 80,
+        "biWidth": 200,
+        "bversion": 65536,
+        "fileNameNoExt": "elem28_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem3": {
+    "die": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 1,
+          "centerOffsetY": 6,
+          "fileName": "elem3_die_0.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            51
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 1,
+          "centerOffsetY": 8,
+          "fileName": "elem3_die_1.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            49
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem3_die_2.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            57
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 1,
+          "centerOffsetY": 0,
+          "fileName": "elem3_die_3.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 96,
+          "wh": [
+            45,
+            57
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem3",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 57,
+        "biWidth": 46,
+        "bversion": 65536,
+        "fileNameNoExt": "elem3_die",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem3_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            53
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem3",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 53,
+        "biWidth": 43,
+        "bversion": 65536,
+        "fileNameNoExt": "elem3_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem4": {
+    "die": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 1,
+          "centerOffsetY": 6,
+          "fileName": "elem4_die_0.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            51
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 2,
+          "centerOffsetY": 8,
+          "fileName": "elem4_die_1.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            42,
+            48
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem4_die_2.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            57
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 1,
+          "centerOffsetY": 0,
+          "fileName": "elem4_die_3.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 96,
+          "wh": [
+            45,
+            57
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem4",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 57,
+        "biWidth": 46,
+        "bversion": 65536,
+        "fileNameNoExt": "elem4_die",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem4_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            53
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem4",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 53,
+        "biWidth": 43,
+        "bversion": 65536,
+        "fileNameNoExt": "elem4_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem5": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem5_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            42,
+            62
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem5",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 62,
+        "biWidth": 42,
+        "bversion": 65536,
+        "fileNameNoExt": "elem5_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem6": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem6_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            42,
+            62
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem6",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 62,
+        "biWidth": 42,
+        "bversion": 65536,
+        "fileNameNoExt": "elem6_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem7": {
+    "die": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 1,
+          "centerOffsetY": 0,
+          "fileName": "elem7_die_0.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            57
+          ]
+        },
+        {
+          "FramePlayIdx": 1,
+          "centerOffsetX": 1,
+          "centerOffsetY": 8,
+          "fileName": "elem7_die_1.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            49
+          ]
+        },
+        {
+          "FramePlayIdx": 2,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem7_die_2.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            44,
+            57
+          ]
+        },
+        {
+          "FramePlayIdx": 3,
+          "centerOffsetX": 1,
+          "centerOffsetY": 0,
+          "fileName": "elem7_die_3.png",
+          "pose": 2,
+          "type": 3,
+          "wb": 96,
+          "wh": [
+            45,
+            57
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem7",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 4,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 57,
+        "biWidth": 46,
+        "bversion": 65536,
+        "fileNameNoExt": "elem7_die",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    },
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem7_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 88,
+          "wh": [
+            43,
+            59
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem7",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 59,
+        "biWidth": 43,
+        "bversion": 65536,
+        "fileNameNoExt": "elem7_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem8": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 2,
+          "centerOffsetY": 0,
+          "fileName": "elem8_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 320,
+          "wh": [
+            160,
+            125
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem8",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 2,
+        "bProp2": 0,
+        "biHeight": 125,
+        "biWidth": 160,
+        "bversion": 65536,
+        "fileNameNoExt": "elem8_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  },
+  "elem9": {
+    "stand": {
+      "FrameInfo": [
+        {
+          "FramePlayIdx": 0,
+          "centerOffsetX": 0,
+          "centerOffsetY": 0,
+          "fileName": "elem9_stand_0.png",
+          "pose": 5,
+          "type": 3,
+          "wb": 248,
+          "wh": [
+            122,
+            139
+          ]
+        }
+      ],
+      "ImageInfo": {
+        "animationName": "elem9",
+        "bClolorbit": 24,
+        "bEOF": 0,
+        "bFrameCount": 1,
+        "bFrameGroupNums": 1,
+        "bProp1": 0,
+        "bProp2": 0,
+        "biHeight": 139,
+        "biWidth": 122,
+        "bversion": 65536,
+        "fileNameNoExt": "elem9_stand",
+        "fileTag": 5137843306747023697,
+        "parentFolder": "bun",
+        "path": "mapElem/bun"
+      }
+    }
+  }
+}

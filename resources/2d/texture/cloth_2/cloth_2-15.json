@@ -1,0 +1,202 @@
+{"frames": {
+
+"cloth17001_die_0.png":
+{
+	"frame": {"x":1401,"y":1447,"w":196,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":184},
+	"sourceSize": {"w":196,"h":184},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17601_walk_0.png":
+{
+	"frame": {"x":5,"y":579,"w":364,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":364,"h":456},
+	"sourceSize": {"w":364,"h":456},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17601_walk_12.png":
+{
+	"frame": {"x":375,"y":579,"w":364,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":364,"h":456},
+	"sourceSize": {"w":364,"h":456},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17701_die_4.png":
+{
+	"frame": {"x":1691,"y":1041,"w":352,"h":380},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":380},
+	"sourceSize": {"w":352,"h":380},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17701_stand_5.png":
+{
+	"frame": {"x":1047,"y":579,"w":396,"h":384},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":396,"h":384},
+	"sourceSize": {"w":396,"h":384},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17701_walk_5.png":
+{
+	"frame": {"x":1091,"y":1639,"w":300,"h":404},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":404},
+	"sourceSize": {"w":300,"h":404},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17701_walk_14.png":
+{
+	"frame": {"x":1397,"y":1639,"w":288,"h":404},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":404},
+	"sourceSize": {"w":288,"h":404},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17901_die_1.png":
+{
+	"frame": {"x":5,"y":1639,"w":356,"h":404},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":404},
+	"sourceSize": {"w":356,"h":404},
+	"pivot": {"x":0,"y":0}
+},
+"cloth17901_die_4.png":
+{
+	"frame": {"x":1691,"y":1427,"w":352,"h":380},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":380},
+	"sourceSize": {"w":352,"h":380},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18001_die_1.png":
+{
+	"frame": {"x":367,"y":1639,"w":356,"h":404},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":404},
+	"sourceSize": {"w":356,"h":404},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18101_die_1.png":
+{
+	"frame": {"x":729,"y":1639,"w":356,"h":404},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":404},
+	"sourceSize": {"w":356,"h":404},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18101_walk_14.png":
+{
+	"frame": {"x":1401,"y":1041,"w":284,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":284,"h":400},
+	"sourceSize": {"w":284,"h":400},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18603_stand_5.png":
+{
+	"frame": {"x":5,"y":5,"w":716,"h":568},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":716,"h":568},
+	"sourceSize": {"w":716,"h":568},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18603_walk_7.png":
+{
+	"frame": {"x":5,"y":1041,"w":692,"h":592},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":592},
+	"sourceSize": {"w":692,"h":592},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18603_walk_23.png":
+{
+	"frame": {"x":727,"y":5,"w":716,"h":568},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":716,"h":568},
+	"sourceSize": {"w":716,"h":568},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18604_walk_7.png":
+{
+	"frame": {"x":703,"y":1041,"w":692,"h":592},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":692,"h":592},
+	"sourceSize": {"w":692,"h":592},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18701_walk_21.png":
+{
+	"frame": {"x":1691,"y":1813,"w":192,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":228},
+	"sourceSize": {"w":192,"h":228},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18706_stand_4.png":
+{
+	"frame": {"x":1449,"y":5,"w":564,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":564,"h":512},
+	"sourceSize": {"w":564,"h":512},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18706_stand_5.png":
+{
+	"frame": {"x":1449,"y":523,"w":564,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":564,"h":512},
+	"sourceSize": {"w":564,"h":512},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18707_walk_14.png":
+{
+	"frame": {"x":745,"y":579,"w":296,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":456},
+	"sourceSize": {"w":296,"h":456},
+	"pivot": {"x":0,"y":0}
+},
+"cloth18809_walk_12.png":
+{
+	"frame": {"x":1889,"y":1813,"w":152,"h":172},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":172},
+	"sourceSize": {"w":152,"h":172},
+	"pivot": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cloth_2-15.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "cloth_2-0.json", "cloth_2-1.json", "cloth_2-2.json", "cloth_2-3.json", "cloth_2-4.json", "cloth_2-5.json", "cloth_2-6.json", "cloth_2-7.json", "cloth_2-8.json", "cloth_2-9.json", "cloth_2-10.json", "cloth_2-11.json", "cloth_2-12.json", "cloth_2-13.json", "cloth_2-14.json", "cloth_2-16.json", "cloth_2-17.json", "cloth_2-18.json", "cloth_2-19.json", "cloth_2-20.json", "cloth_2-21.json", "cloth_2-22.json", "cloth_2-23.json", "cloth_2-24.json", "cloth_2-25.json", "cloth_2-26.json", "cloth_2-27.json", "cloth_2-28.json", "cloth_2-29.json", "cloth_2-30.json", "cloth_2-31.json", "cloth_2-32.json", "cloth_2-33.json", "cloth_2-34.json", "cloth_2-35.json", "cloth_2-36.json", "cloth_2-37.json", "cloth_2-38.json", "cloth_2-39.json", "cloth_2-40.json", "cloth_2-41.json", "cloth_2-42.json", "cloth_2-43.json", "cloth_2-44.json", "cloth_2-45.json", "cloth_2-46.json", "cloth_2-47.json", "cloth_2-48.json", "cloth_2-49.json", "cloth_2-50.json", "cloth_2-51.json", "cloth_2-52.json", "cloth_2-53.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:03322797b73c0704cab3e55e56835887:936b178aae3cf2538a58fc222013bae8:28a431458e0bda7dea41a3d66f6c74c8$"
+}
+}

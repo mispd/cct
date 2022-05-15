@@ -1,0 +1,8 @@
+extern var World;
+extern var Trigger;
+
+enum TriggerEV {
+    EVENT_GAME_INIT,
+    EVENT_UNIT_DEATH,
+    EVENT_END
+}
